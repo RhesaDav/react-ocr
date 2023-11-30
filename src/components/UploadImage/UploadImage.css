@@ -1,0 +1,28 @@
+.uploadImage-not-displayed {
+    display: none;
+}
+
+.uploadImage-selected-image {
+    width: 80px;
+    height: 80px;
+}
+
+.uploadImage-button {
+    cursor: pointer;
+}
+
+.uploadImage-label {
+    cursor: pointer;
+    padding: 10px;
+    color: #000;
+    font-weight: 500;
+}
+
+.uploadImage-label:hover {
+    border: 1px solid rgb(95, 95, 250);
+    border-radius: 10px;
+}
+
+.uploadImage-no-files {
+    color: rgb(185, 36, 36);
+}
